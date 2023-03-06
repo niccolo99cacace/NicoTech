@@ -1,6 +1,7 @@
 NicoTech is an e-commerce technology products developed using MERN technologies.
 It consists of a user interface equipped with asynchronous search engine, filters and the management of a shopping cart. 
-It also has an authentication system using encrypted tokens and an admin-friendly interface for e-commerce manipulation (Work in progress...)
+It also has an authentication system using encrypted tokens and an admin-friendly interface for e-commerce manipulation (WORK IN PROGRESS
+...)
 
 1) Home
 ![NicoTech Home](https://user-images.githubusercontent.com/122627587/223181725-be227989-2a49-410b-bf2b-e0399479304a.png)
