@@ -1,0 +1,6 @@
+[submodule "server-NicoTech"]
+	path = server-NicoTech
+	url = https://github.com/niccolo99cacace/server-NicoTech.git
+[submodule "client-NicoTech"]
+	path = client-NicoTech
+	url = https://github.com/niccolo99cacace/client-NicoTech.git
