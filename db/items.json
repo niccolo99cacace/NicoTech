@@ -1,0 +1,233 @@
+[{
+  "_id": {
+    "$oid": "63c42ac2c6e1efd3352c83d8"
+  },
+  "name": "Pulse GL66",
+  "brand": "MSI",
+  "description": "MSI Pulse GL66 12UGK-039IT, 15,6 pollici, processore Intel® Core™ i7, NVIDIA GeForce RTX 3070, 16 GB, SSD 1000 GB, Black",
+  "category": "Portable PC",
+  "price": 555,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1675866739/Pulse_MSI_2_a7w33k.png",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1675866739/Pulse_MSI_1_tnajiw.png",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1675866739/Pulse_MSI_3_ndqyxv.png"
+  ],
+  "__v": 0,
+  "availability": 5,
+  "largeDescription": "Geforce RTX 30 series laptops, il gioco perfetto:\nLe GPU GeForce RTX serie 30 offrono le massime prestazioni per giocatori e creatori. Sono alimentati da Ampere, l'architettura RTX di seconda generazione di NVIDIA, con nuovi RT Core, Tensor Core e multiprocessori di streaming per la grafica ray-tracing più realistica e funzionalità AI all'avanguardia.\n\nDà luce al tuo stile:\nCon Mystic Light di MSI Center puoi personalizzare l’illuminazione della tastiera in base al tuo stile di gioco.\n\nVelocità e nitidezza come mai prima d’ora:\nI display dei gaming laptop MSI sono fatti su misura e sono altamente ottimizzati per i giocatori. Con un'elevata frequenza di aggiornamento e una grafica fluida, diventa il supporto definitivo affinché i giocatori siano invincibili.\n\nRaffreddamento rivoluzionario per giochi di nuova generazione:\nSoluzioni termiche dedicate sia per la CPU che per la GPU con un massimo di 6 heatpipe. Ingrandendo il diametro interno del tubo termico per garantire le massime prestazioni in condizioni di gioco estreme.\n\nIl modo in cui la musica deve essere:\nImmergiti nella musica senza perdite e goditi la qualità del suono premium con l'audio ad alta risoluzione\n\nEsperienza wireless straordinaria:\nL'ultimo Wi-Fi 6 presenta standard 802.11ax e 3 volte più veloce del Wi-Fi 5, progettato per offrire un gameplay velocissimo, il miglior streaming e l'esperienza di comunicazione più coinvolgente. Gioca con le impostazioni ottimali con Wi-Fi 6.\n\nImmergiti nell'audio:\nSperimenta e ascolta l'audio nel modo in cui è stato concepito e condividilo con Nahimic 3D surround e condivisione del suono tramite Bluetooth.\n\nL'ultimo potente standard di memoria DDR4-3200:\nOttieni prestazioni straordinarie dal tuo laptop con il supporto della recente memoria DDR4-3200. Goditi maggiore velocità e reattività del sistema, il nuovo standard porterà la tua esperienza di gioco a un livello superiore.\n\nOttieni tutti i buff:\nL'esclusivo MSI Center ti aiuta a controllare e personalizzare il tuo laptop MSI nel modo che preferisci.",
+  "reviews": [
+    {
+      "reviewId": {
+        "$oid": "6401cc7c3b73f5549d87039a"
+      }
+    },
+    {
+      "reviewId": "6402194e11aea8835b07d8e4"
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "63e83fa99edac2c9b319a71a"
+  },
+  "name": "FHD M27F",
+  "brand": "HP",
+  "description": "MONITOR, 27 pollici, Full-HD, 1920 x 1080 Pixel",
+  "largeDescription": "HP M27f\nPersonalizza e regola il monitor in tutta semplicità:\nGrazie al semplice e intuitivo software HP Display Center, puoi personalizzare le impostazioni del monitor, ripartire gli schermi e persino attenuare la luminosità dello schermo.\n\nHP Eye Ease con certificazione Eyesafe:\nIl filtro luce blu sempre attivo è una garanzia di comfort per la tua vista, senza influire minimamente sulla precisione del colore.\n\nPuntando al meglio:\nLa tecnologia IPS ti assicura una visione nitida praticamente da qualsiasi angolazione. Davanti a questo monitor, c'è posto per tutta la famiglia.\n\nMonitor FHD/1080p:\nGrafica brillante e qualità straordinaria grazie all’incredibile monitor FHD.\n\nGestione dei cavi:\nIl passacavi ubicato sul supporto del monitor migliora la gestione dei cavi per uno spazio di lavoro sgombro e ben organizzato.",
+  "category": "Monitor",
+  "price": 159.99,
+  "availability": 22,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1676165789/monitor02_nbyrqt.png",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1676165745/hp_monitor01_tomlkh.png",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1676165977/lg_monitor_03_xpusvz.jpg"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63e93424c59f214c6471ffed"
+  },
+  "name": "12T Pro",
+  "brand": "Xiaomi",
+  "description": "XIAOMI 12T Pro 8+256, 256 GB, BLACK",
+  "largeDescription": "Xiaomi Xiaomi 12T Pro \nSblocca nuovi livelli di dettaglio e creatività con l'innovativo sistema di imaging da 200 MP:\nXiaomi 12T Pro conquista la scena con il suo sistema di imaging da 200 MP di livello professionale per un'esperienza fotografica avanzata anche su smartphone. Grazie alle funzionalità hardware e software ed agli algoritmi avanzati di Xiaomi, con Xiaomi 12T Pro avrai immagini nitide senza precedenti, anche in condizioni di scarsa illuminazione e con messa a fuoco rapida. La fotocamera principale da 200 MP è leader del settore smartphone: potrai scattare foto nitide ricche di dettagli in qualsiasi momento. La fotocamera è dotata anche di zoom 2x, grazie all’ampio sensore da 1/1,22\" per ritratti eccellenti. Oltre a questo, Xiaomi 12T Pro diponde della tecnologia super pixel 16 in 1 a 2,56µm, di un sistema di lenti 8P con OIS e Xiaomi Night Mode che ti permetterà di scattare foto luminose e nitide anche in condizioni di scarsa illuminazione. Inoltre, l'abbinamento con algoritmi software avanzati, consente di catturare persone e oggetti in rapido movimento senza perdere la messa a fuoco. Il dispositivo infine supporta l'acquisizione di video 8K alla massima risoluzione e offre funzionalità come Xiaomi ProCut e Ultra burst. Xiaomi 12T Pro è il device perfetto per gli utenti per catturare momenti significativi e creare contenuti creativi a livello professionale.\n\nMega prestazioni e mega batteria per prolungare i tuoi momenti preferiti:\nA supportarti in tutti i tuoi momenti c'è Snapdragon 8+ Gen 1 di Qualcomm, con processo di produzione avanzato TSMC a 4 nm, che migliora significativamente le prestazioni e riduce il consumo energetico sia della CPU che della GPU. Dotato di un sistema termico che comprende una camera di vapore più grande del 65% e una superficie dissipante superiore del 125% rispetto a Xiaomi 11T Pro, Xiaomi 12T Pro restituisce un'esperienza utente fluida e una grande efficienza energetica senza influire sulla dissipazione del calore. Oltre al chipset a basso consumo energetico, Xiaomi 12T Pro si caratterizza per un'incredibile combinazione di batteria capiente e ricarica rapida. Xiaomi 12T Pro offre infatti la migliore durata in assoluto tra i flagship Xiaomi. Con un'ampia batteria da 5.000 mAh e HyperCharge da 120 W, potrai godere fino a 13,5 ore (di utilizzo medio) e ricaricare al 100% in soli 19 minuti.\n\nUn display incredibile incontra un design straordinario:\nGoditi una fantastica esperienza visiva con il display AMOLED CrystalRes da 6,67\" di Xiaomi 12T Pro con risoluzione 1220p e oltre 68 miliardi di colori, studiato per bilanciare perfettamente nitidezza, dettagli cromatici ed efficienza energetica. L’ampio display è dotato di funzioni adattive intelligenti, tra cui AdaptiveSync 120Hz per regolare la frequenza di aggiornamento e la modalità di lettura adattiva per ridurre la quantità di luce blu emessa per il comfort degli occhi durante periodi di utilizzo prolungati. Colori vividi e maggiore contrasto grazie anche alle tecnologie Adaptive True Display e Adaptive HDR. Xiaomi 12T Pro spicca per l’iconico design premium. Il corpo posteriore in vetro curvo satinato riduce le impronte sul retro e restituisce una sensazione di robustezza e comfort quando lo si tiene in mano. A prescindere da quale punto di vista lo osservi, fronte o retro, alto o basso, il design dal linguaggio univoco è disponibile in 3 splendidi colori: nero, argento e blu.",
+  "category": "Smartphone",
+  "price": 766.99,
+  "availability": 13,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1676227295/xiaomi_cell_0_llkkwx.png",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1676227294/xiaomi_cell_1_f1wxmj.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1676227294/Xiaomi_cell2_mxcxwx.jpg"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63fd1c47d91ba69d50db1fd6"
+  },
+  "name": "Katana 17",
+  "brand": "MSI",
+  "description": "MSI Katana 17 B12VGK-205IT i7-12650H Computer portatile 43,9 cm (17.3) Full HD Intel® Core™ i7 16 GB DDR5-SDRAM 1000 GB SSD NVIDIA GeForce RTX 4070 Wi-Fi 6 (802.11ax) Windows 11 Home Nero",
+  "category": "Portable PC",
+  "price": 2300,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677531756/MSI_2.0_b5hltb.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677531756/MSI_2.2_merw3n.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677531756/MSI_2.1_fde9bd.jpg"
+  ],
+  "availability": 3,
+  "largeDescription": "MSI Katana 17 B12VGK-205IT. Tipo di prodotto: Computer portatile, Fattore di forma: Clamshell. Famiglia processore: Intel® Core™ i7, Modello del processore: i7-12650H. Dimensioni schermo: 43,9 cm (17.3\"), Tipologia HD: Full HD, Risoluzione del display: 1920 x 1080 Pixel. RAM installata: 16 GB, Tipo di RAM: DDR5-SDRAM. Capacità totale di archiviazione: 1000 GB, Supporto di memoria: SSD. Modello scheda grafica integrata: Intel® UHD Graphics, Scheda grafica dedicata: NVIDIA GeForce RTX 4070. Sistema operativo incluso: Windows 11 Home. Colore del prodotto: Nero"
+},{
+  "_id": {
+    "$oid": "63fd1eabd91ba69d50db1fd7"
+  },
+  "name": "Aspire 3",
+  "brand": "Acer",
+  "description": "Acer Aspire 3 A315-58-51RV Computer portatile 39,6 cm (15.6) Full HD Intel® Core™ i5 8 GB DDR4-SDRAM 512 GB SSD Wi-Fi 5 (802.11ac) Windows 11 Home Argento",
+  "category": "Portable PC",
+  "price": 580,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677539448/aspire3_bspxfu.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677533079/Acer_1.1_ogfw01.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677533079/Acer_1.2_axtapl.jpg"
+  ],
+  "availability": 15,
+  "largeDescription": "Display dai colori vivaci\nIl display Full HD rende immagini e video straordinari, mentre la cornice sottile offre più spazio di visualizzazione. Per proteggere la vista dalla luce blu nociva, questo notebook include anche Acer BlueLightShield™.\n\nAmpia scelta di porte\nLe tre porte USB, tra cui due USB 3.2 Gen 1 e una USB 2.0 consentono di collegare diversi dispositivi. Puoi anche collegarti a un display esterno tramite la porta HDMI® utilizzando uno schermo più grande.\n\nSempre connesso\nUna serie completa di opzioni di connettività per ricevere facilmente gli ultimi aggiornamenti. Il Wi-Fi 5 (802.11ac) offre un accesso rapido a Internet. Per le funzioni avanzate delle videochiamate, questo notebook include webcam e microfoni.\n\nDesign funzionale\nIl design è sottile per essere facilmente trasportabile; la cerniera ergonomica1 che facilita il passaggio del flusso d'aria."
+},{
+  "_id": {
+    "$oid": "63fd229fd91ba69d50db1fda"
+  },
+  "name": "X27",
+  "brand": "HP",
+  "description": "HP X27 68,6 cm (27) 1920 x 1080 Pixel Full HD LED Nero",
+  "category": "Monitor",
+  "price": 200,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677533837/Hp_monitor_2.0_pvmwsv.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677533837/Hp_monitor_2.2_brkfgg.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677533837/Hp_monitor_2.1_igbwym.jpg"
+  ],
+  "availability": 7,
+  "largeDescription": "Gameplay sempre ai massimi livelli.\nI gaming monitor di HP sono la soluzione ideale per chi ama immergersi in lunghe sessioni di gioco, con la massima precisione e all'insegna del comfort. Se vuoi giocare seriamente, fallo in HD con la tecnologia IPS, una frequenza di aggiornamento di 165 Hz, un tempo di risposta di 1 ms[1], AMD[2] FreeSync™ Premium[3] e una miriade di colori come mai prima d'ora"
+},{
+  "_id": {
+    "$oid": "63fd23f9d91ba69d50db1fdb"
+  },
+  "name": "Redmi Note 11S",
+  "brand": "Xiaomi",
+  "description": "Xiaomi Redmi Note 11S 16,3 cm (6.43) Doppia SIM Android 11 4G USB tipo-C 6 GB 128 GB 5000 mAh Grigio",
+  "category": "Smartphone",
+  "price": 210,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677539687/xiaomi-note-11s_faspz1.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677534195/xiaomi_2.1jpg_azecvl.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677534195/xiaomi_2.2_pchxrk.jpg"
+  ],
+  "availability": 20,
+  "largeDescription": "Quadrupla Fotocamera da Top di Gamma con risoluzione massima a 108 MP per foto eccezionali\nDotato di ben quattro obiettivi posteriori, Redmi Note 11S offre un'esperienza fotografica eccezionale senza compromessi. La Fotocam era Principale a 108MP cattura immagini e video m ozzafiato in alta risoluzione con colori vivaci: quella Ultra-Grandangolare da 8MP espande la prospettiva con un angolo di visione di 118 gradi; la Fotocam era Macro da 2 MP coglie anche i più piccoli dettagli ravvicinati e il Sensore di Profondità da 2 MP crea ritratti dall'aspetto più naturale. Sulla parte anteriore del telefono si trova poi una fotocam era frontale da 16MP con cui scattarsi selfie chiari e sempre naturali. La fotocam era principale professionale da 108MP utilizza il sensore Samsung HM2 della ragguardevole dimensione di 1/1.52 pollici e supporta la tecnologia \"binning 9-in-1 pixel\" oltre ad un doppio ISO nativo per offrire incredibili immagini ad alta risoluzione in tutte le condizioni di luce, con risultati spettacolari soprattutto in caso di scarsa illuminazione."
+},{
+  "_id": {
+    "$oid": "63fd2543d91ba69d50db1fdc"
+  },
+  "name": "24MK600M-W",
+  "brand": "LG",
+  "description": "LG 24MK600M-W Monitor Full HD 24 IPS 75Hz Silver",
+  "category": "Monitor",
+  "price": 139,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677534522/lg_1.0_ffeesq.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677534522/lg_1.1_mcj3fx.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677534522/lg_1.2_x2inst.jpg"
+  ],
+  "availability": 30,
+  "largeDescription": "Colori realistici da ogni angolazione\nGrazie al pannello IPS il monitor Full HD di LG garantisce una visione perfetta in alta risoluzione e priva di distorsione da ogni angolo di visione, con colori precisi, brillanti e nitidi.\n\nCoinvolgente esperienza visiva\nIl design senza cornice su 3 lati garantisce un'esperienza visiva coinvolgente e rende elegante e moderno il tuo ambiente di lavoro. Puoi regolare l'inclinazione del monitor per ottenere una postazione più confortevole.\n\nProteggi i tuoi occhi\nIl Monitor Full HD di LG riduce l'affaticamento dei tuoi occhi grazie alla modalità di lettura Reader Mode, che porta sullo schermo una temperatura di colore simile a quella della carta, riducendo l'emissione di luce blu.\n\nMigliore comfort visivo\nLa modalità Flicker Safe riduce lo sfarfallio invisibile sullo schermo e offre un utilizzo del monitor PC più confortevole per i tuoi occhi.\n"
+},{
+  "_id": {
+    "$oid": "63fd2743d91ba69d50db1fdd"
+  },
+  "name": "Galaxy A13",
+  "brand": "Samsung",
+  "description": "Samsung Galaxy A13 16,8 cm (6.6) Doppia SIM Android 12 4G USB tipo-C 4 GB 128 GB 5000 mAh Azzurro",
+  "category": "Smartphone",
+  "price": 180,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677535270/samsung_res_fehvi2.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677535149/samsung_1.1_jmx846.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677535149/samsung_1.2_xwnuew.jpg"
+  ],
+  "availability": 18,
+  "largeDescription": "Un display più ampio per un intrattenimento senza fine\nEspandi i tuoi confini per una visione ancora più ampia grazie al display Infinity-V da 6.6\" di Galaxy A13. Grazie alla tecnologia FHD+, i tuoi contenuti saranno sempre al top: nitidi, brillanti e cristallini.\n\nUn nuovo standard di stile\nGalaxy A13 combina un design morbido al tocco e colori delicati. Le linee affusolate favoriscono una presa confortevole e facilitano l'utilizzo del dispositivo. Scegli tra le colorazioni Black, White e Blue.\n\nQuattro fotocamere per catturare ancora di più\nRendi i tuoi ricordi indimenticabili e ricchi di dettagli grazie alla fotocamera principale da 50 MP. Espandi l’angolo di visione con la fotocamera ultra-grandangolare. Personalizza la messa a fuoco con la fotocamera di profondità o scatta primi piani ricchi di dettagli con la fotocamera macro.\n\nFotocamera Ultra-grandangolare per scatti in grande stile\nCon una visione simile a quella dell’occhio umano, la fotocamera ultra-grandangolare da 5 MP guarda il mondo con un angolo di 123°, aggiungendo più prospettiva a tutti i tuoi scatti."
+},{
+  "_id": {
+    "$oid": "63fd2870d91ba69d50db1fde"
+  },
+  "name": "34WP65C ",
+  "brand": "LG",
+  "description": "LG 34WP65C Monitor 21:9 UltraWide Quad HD 34 1ms MBR 160Hz",
+  "category": "Monitor",
+  "price": 377,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677534990/lg_2.0_xwjyqc.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677534990/lg_2.1_xdza5c.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677534990/lg_2.2_xh7ns4.jpg"
+  ],
+  "availability": 6,
+  "largeDescription": "Monitor UltraWide: cambia punto di vista\nCambia punto di vista e scegli un Monitor 21:9 UltraWide. Ideale per chi lavora con fogli di calcolo, fantastico per editing video e foto, perfetto per chi ha bisogno di lavorare contemporaneamente su più applicativi.\n\nQuad HD 21:9 : più spazio a tua disposizione\nLo schermo 21:9 UltraWide con risoluzione Quad HD (3440x1440) mette a tua disposizione il 33% di spazio in più rispetto ad un tradizionale display 16:9 Quad HD (2560x1440). Così puoi gestire sulla stessa schermata testi, presentazioni e webinar senza perdere alcuna informazione.\n\nImmagini vivide e realistiche\nGoditi i tuoi contenuti preferiti con la migliore riproduzione del colore e il massimo realismo delle immagini grazie al supporto HDR10, che visualizza bianchi più luminosi e neri più intensi rispetto ai display tradizionali.\n\nConquista la vittoria ad una velocità incredibile\nIl tempo di risposta di 1ms MBR agevola la fluidità del gioco riducendo sfocature ed effetto ghosting, garantendo un importante vantaggio competitivo rispetto agli avversari."
+},{
+  "_id": {
+    "$oid": "63fd290fd91ba69d50db1fdf"
+  },
+  "name": "Galaxy 22",
+  "brand": "Samsung",
+  "description": "Samsung Galaxy S22 Ultra 5G Display 6.8'' Dynamic AMOLED 2X, 5 fotocamere, RAM 12 GB, 256 GB, 5.000mAh, Phantom Black",
+  "category": "Smartphone",
+  "price": 983,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677535619/samsung_2.0_qimjfz.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677535619/samsung_2.2_fz7tsf.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677535619/samsung_2.1_nozehv.jpg"
+  ],
+  "availability": 11,
+  "largeDescription": "Il nuovo Galaxy S22 Ultra 5G offre tutta l'esperienza Note, per la prima volta con S Pen integrata. L'alloggiamento dedicato e la perfetta fusione nel design premium trasformano S pen nella tua penna per prendere appunti e nel tuo strumento per editare video.\n\nIl display Dynamic AMOLED 2X 6.8\"\"1 da 1,750 nits di massima luminosità ti offre una visione eccezionale anche all'aperto. Il suo Refresh Rate adattivo da 120Hz si regola automaticamente in base a quello che stai visualizzando per farti immergere nei tuoi contenuti preferiti e vivere la fluidità della super stabilizzazione. Grazie ai pixel più grandi di Galaxy S22 Ultra 5G e al Frame Rate automatico puoi registrare video in 8K più nitidi e ricchi di dettagli in tutte le condizioni di luce.2\n\nNightography illumina la notte con colori più vividi e rivoluziona i tuoi scatti notturni. La fotocamera da 108 MP e il Super Clear Glass3 catturarano più luce, più movimento e più dettagli senza riflessi o abbagli.2\nGalaxy S22 Ultra 5G vanta il primo processore da 4nm su uno smartphone Galaxy, ottimizzato per machine learning e scatti notturni grazie all'intelligenza artificiale. La batteria intelligente da 5,000 mAh4 gestisce ogni tua azione e ottimizza i consumi, per garantirti più tempo di utilizzo dello smartphone.5 E con la ricarica Ultra-Rapida 2.0 da 45W sei sempre pronto a ripartire.6"
+},{
+  "_id": {
+    "$oid": "63fd20d7d91ba69d50db1fd8"
+  },
+  "name": "Aspire 1",
+  "brand": "Acer",
+  "description": "Acer Aspire 1 A115-32-C64E Computer portatile 39,6 cm (15.6) Full HD Intel® Celeron® N 4 GB DDR4-SDRAM 128 GB eMMC Wi-Fi 5 (802.11ac) Windows 11 Home in S mode Argento",
+  "category": "Portable PC",
+  "price": 290,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677539451/sapire1_f5av6t.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677533340/Acer_2.2_z2uodh.jpg",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1677533340/Acer_2.1_zjivic.jpg"
+  ],
+  "availability": 20,
+  "largeDescription": "Display dai colori vivaci\nIl display Full HD rende immagini e video straordinari, mentre la cornice sottile offre più spazio di visualizzazione. Per proteggere la vista dalla luce blu nociva, questo notebook include anche Acer BlueLightShield™.\n\nAmpia scelta di porte\nLe tre porte USB, tra cui due USB 3.2 Gen 1 e una USB 2.0 consentono di collegare diversi dispositivi. Puoi anche collegarti a un display esterno tramite la porta HDMI® utilizzando uno schermo più grande.\n\nSempre connesso\nUna serie completa di opzioni di connettività per ricevere facilmente gli ultimi aggiornamenti. Il Wi-Fi 5 (802.11ac) offre un accesso rapido a Internet. Per le funzioni avanzate delle videochiamate, questo notebook include webcam e microfoni.\n\nDesign funzionale\nIl design è sottile per essere facilmente trasportabile; la cerniera ergonomica1 che facilita il passaggio del flusso d'aria."
+},{
+  "_id": {
+    "$oid": "6405ca6810f565726ee2861d"
+  },
+  "name": "Pulse GL66",
+  "brand": "MSI",
+  "description": "MSI Pulse GL66 12UGK-039IT, 15,6 pollici, processore Intel® Core™ i7, NVIDIA GeForce RTX 3070, 16 GB, SSD 1000 GB, Black",
+  "category": "Portable PC",
+  "price": 900,
+  "imageUrl": [
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1675866739/Pulse_MSI_2_a7w33k.png",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1675866739/Pulse_MSI_1_tnajiw.png",
+    "https://res.cloudinary.com/deze9bms8/image/upload/v1675866739/Pulse_MSI_3_ndqyxv.png"
+  ],
+  "__v": 0,
+  "availability": 5,
+  "largeDescription": "Geforce RTX 30 series laptops, il gioco perfetto:\nLe GPU GeForce RTX serie 30 offrono le massime prestazioni per giocatori e creatori. Sono alimentati da Ampere, l'architettura RTX di seconda generazione di NVIDIA, con nuovi RT Core, Tensor Core e multiprocessori di streaming per la grafica ray-tracing più realistica e funzionalità AI all'avanguardia.\n\nDà luce al tuo stile:\nCon Mystic Light di MSI Center puoi personalizzare l’illuminazione della tastiera in base al tuo stile di gioco.\n\nVelocità e nitidezza come mai prima d’ora:\nI display dei gaming laptop MSI sono fatti su misura e sono altamente ottimizzati per i giocatori. Con un'elevata frequenza di aggiornamento e una grafica fluida, diventa il supporto definitivo affinché i giocatori siano invincibili.\n\nRaffreddamento rivoluzionario per giochi di nuova generazione:\nSoluzioni termiche dedicate sia per la CPU che per la GPU con un massimo di 6 heatpipe. Ingrandendo il diametro interno del tubo termico per garantire le massime prestazioni in condizioni di gioco estreme.\n\nIl modo in cui la musica deve essere:\nImmergiti nella musica senza perdite e goditi la qualità del suono premium con l'audio ad alta risoluzione\n\nEsperienza wireless straordinaria:\nL'ultimo Wi-Fi 6 presenta standard 802.11ax e 3 volte più veloce del Wi-Fi 5, progettato per offrire un gameplay velocissimo, il miglior streaming e l'esperienza di comunicazione più coinvolgente. Gioca con le impostazioni ottimali con Wi-Fi 6.\n\nImmergiti nell'audio:\nSperimenta e ascolta l'audio nel modo in cui è stato concepito e condividilo con Nahimic 3D surround e condivisione del suono tramite Bluetooth.\n\nL'ultimo potente standard di memoria DDR4-3200:\nOttieni prestazioni straordinarie dal tuo laptop con il supporto della recente memoria DDR4-3200. Goditi maggiore velocità e reattività del sistema, il nuovo standard porterà la tua esperienza di gioco a un livello superiore.\n\nOttieni tutti i buff:\nL'esclusivo MSI Center ti aiuta a controllare e personalizzare il tuo laptop MSI nel modo che preferisci.",
+  "reviews": [
+    {
+      "reviewId": {
+        "$oid": "6401cc7c3b73f5549d87039a"
+      }
+    },
+    {
+      "reviewId": "6402194e11aea8835b07d8e4"
+    }
+  ]
+}]

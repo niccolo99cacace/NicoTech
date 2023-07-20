@@ -1,0 +1,26 @@
+[{
+  "_id": {
+    "$oid": "6401cc7c3b73f5549d87039a"
+  },
+  "username": "Mario Rossi",
+  "rating": 4,
+  "description": "Pc spettacolare per quanto riguarda le prestazioni delle CPU e scheda video.\nUn pò limitato dal punto di vista della memoria ma in generale è un buon acquisto.",
+  "date": {
+    "$date": {
+      "$numberLong": "1677839484610"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6402194e11aea8835b07d8e4"
+  },
+  "username": "Carmine Alfieri",
+  "rating": 5,
+  "description": "Ho regalato questo articolo a mio figlio per il suo compleanno. E' rimasto molto soffisfatto soprattutto per il design bello e accattivante , per non parlare delle prestazioni. Ottimo lavoro.",
+  "date": {
+    "$date": {
+      "$numberLong": "1677839484610"
+    }
+  }
+}]

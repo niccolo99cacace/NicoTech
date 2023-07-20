@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6404aa3319c52dd0e59bc1a2"
+  },
+  "name": "Niccolo",
+  "email": "niccolo99cacace@gmail.com",
+  "password": "$2b$10$Tn2Ra9m7Tt8U6CiY9QyI4.Q/no/8Y5FGzASuiU/nbb592rECLsaee",
+  "cart": [
+    {
+      "itemId": {
+        "$oid": "63fd23f9d91ba69d50db1fdb"
+      },
+      "itemQuantity": 1,
+      "_id": {
+        "$oid": "6406204ea040b18a031e02e4"
+      }
+    },
+    {
+      "itemId": {
+        "$oid": "63fd2870d91ba69d50db1fde"
+      },
+      "itemQuantity": 3,
+      "_id": {
+        "$oid": "64062055a040b18a031e02f6"
+      }
+    },
+    {
+      "itemId": {
+        "$oid": "63fd20d7d91ba69d50db1fd8"
+      },
+      "itemQuantity": 1,
+      "_id": {
+        "$oid": "6406205ca040b18a031e0309"
+      }
+    }
+  ],
+  "__v": 26,
+  "resetPasswordToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2M2M1NjFhNTI5NzRlODgzMjUzNTQ3OGIiLCJpYXQiOjE2NzczNzYzNDUsImV4cCI6MTY3NzM3NzI0NX0.hONUYuZlB8Yk_Wy8Zei5pCjkf8hGQ-5wJy-rdz4JKUA",
+  "confirmedAccount": true,
+  "admin": true
+},{
+  "_id": {
+    "$oid": "6404acef19c52dd0e59bc1a9"
+  },
+  "name": "aaa",
+  "email": "aaa@gmail.com",
+  "password": "$2b$10$fNFkEI7wFCqC6a.SlBJJMOZ4hoMBWg61KV/HC.lZAMz5SsrEIoEOq",
+  "confirmedAccount": false,
+  "cart": [],
+  "__v": 0,
+  "admin": false,
+  "resetPasswordToken": ""
+}]
